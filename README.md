@@ -2,6 +2,7 @@ Store Sales - Time Series Forecasting
 
 https://www.kaggle.com/code/ruhaniarora27/store-sales
 
+importe os arquivos para o google drive: importe de https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 Previsão de Vendas de Lojas - Refatoração com Padrões de Projeto
 ----------------------------------------------------------------

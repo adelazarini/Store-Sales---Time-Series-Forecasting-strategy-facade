@@ -13,6 +13,8 @@ Padrões de Projeto Utilizados:
 1. Strategy
 2. Facade
 
+   
+
 1. Padrão Strategy
 ------------------
 Propósito:
